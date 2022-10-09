@@ -6,6 +6,15 @@ public class DayTWo {
 	
 		
 		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
+		System.out.println("Hello This is new code");
 	}
 
 }
